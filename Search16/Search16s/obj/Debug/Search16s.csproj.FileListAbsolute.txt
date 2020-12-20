@@ -1,0 +1,14 @@
+D:\2.QUT\New folder\Search16\Search16\obj\Debug\Search16s.csprojAssemblyReference.cache
+D:\2.QUT\New folder\Search16\Search16\obj\Debug\Search16s.csproj.CoreCompileInputs.cache
+D:\2.QUT\New folder\Search16\Search16\bin\Debug\Search16s.exe.config
+D:\2.QUT\New folder\Search16\Search16\bin\Debug\Search16s.exe
+D:\2.QUT\New folder\Search16\Search16\bin\Debug\Search16s.pdb
+D:\2.QUT\New folder\Search16\Search16\obj\Debug\Search16s.exe
+D:\2.QUT\New folder\Search16\Search16\obj\Debug\Search16s.pdb
+D:\2.QUT\New folder\Search16\Search16s\bin\Debug\Search16s.exe.config
+D:\2.QUT\New folder\Search16\Search16s\obj\Debug\Search16s.exe
+D:\2.QUT\New folder\Search16\Search16s\obj\Debug\Search16s.pdb
+D:\2.QUT\New folder\Search16\Search16s\bin\Debug\Search16s.exe
+D:\2.QUT\New folder\Search16\Search16s\bin\Debug\Search16s.pdb
+D:\2.QUT\New folder\Search16\Search16s\obj\Debug\Search16s.csprojAssemblyReference.cache
+D:\2.QUT\New folder\Search16\Search16s\obj\Debug\Search16s.csproj.CoreCompileInputs.cache

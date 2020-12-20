@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Search16\Search16\bin\Debug\Search16.exe.config
+C:\Users\Asus\source\repos\Search16\Search16\bin\Debug\Search16.exe
+C:\Users\Asus\source\repos\Search16\Search16\bin\Debug\Search16.pdb
+C:\Users\Asus\source\repos\Search16\Search16\obj\Debug\Search16.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Search16\Search16\obj\Debug\Search16.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Search16\Search16\obj\Debug\Search16.exe
+C:\Users\Asus\source\repos\Search16\Search16\obj\Debug\Search16.pdb
